@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\1212-6\\desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\proekt\\proekt\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Proekt\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Proekt\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJ4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:00:38.686Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T07:13:50.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T06:20:47.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T06:18:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Proekt\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Models\\Order.cs",
               "RelativeToolTip": "Proekt\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T07:44:34.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Proekt\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Proekt\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T07:19:53.7Z",
+              "WhenOpened": "2025-04-16T06:15:36.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Program.cs",
-              "RelativeDocumentMoniker": "Proekt\\Program.cs",
-              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Program.cs",
-              "RelativeToolTip": "Proekt\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T07:03:20.012Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T06:14:40.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Proekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Proekt\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Proekt\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Models\\Category.cs",
+              "RelativeToolTip": "Proekt\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:13:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T10:28:34.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T08:42:37.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:42:32.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:36:22.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:34:46.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Proekt\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\1212-6\\Desktop\\icakaaaaaaaaaaaaaaaaaaaaaaaaa\\Proekt\\Proekt\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Proekt\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAYwEQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:31:55.986Z"
             }
           ]
         }

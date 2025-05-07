@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -13,10 +14,12 @@ namespace Proekt.Controllers
     public class OrdersController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<User> _userManager;
 
-        public OrdersController(ApplicationDbContext context)
+        public OrdersController(ApplicationDbContext context,UserManager<User> userche)
         {
             _context = context;
+            _userManager = userche;
         }
 
         // GET: Orders
@@ -49,8 +52,9 @@ namespace Proekt.Controllers
         // GET: Orders/Create
         public IActionResult Create()
         {
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id");
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id");
+            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name");
+
+       //     ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id");
             return View();
         }
 
@@ -61,14 +65,16 @@ namespace Proekt.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,ProductId")] Order order)
         {
+            order.DateRegister = DateTime.Now;
+            order.UserId = _userManager.GetUserId(User);
             if (ModelState.IsValid)
             {
                 _context.Add(order);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id", order.ProductId);
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
+            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
+     //       ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
             return View(order);
         }
 
@@ -85,8 +91,8 @@ namespace Proekt.Controllers
             {
                 return NotFound();
             }
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id", order.ProductId);
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
+            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
+          //  ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
             return View(order);
         }
 
@@ -101,7 +107,8 @@ namespace Proekt.Controllers
             {
                 return NotFound();
             }
-
+            order.DateRegister = DateTime.Now;
+            order.UserId = _userManager.GetUserId(User);
             if (ModelState.IsValid)
             {
                 try
@@ -122,8 +129,8 @@ namespace Proekt.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id", order.ProductId);
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
+            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", order.ProductId);
+           // ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", order.UserId);
             return View(order);
         }
 
