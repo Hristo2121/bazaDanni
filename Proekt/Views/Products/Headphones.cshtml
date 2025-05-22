@@ -1,0 +1,78 @@
+﻿@{
+	ViewData["Title"] = "Headphones";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Слушалки Razer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #000000, #004400);
+            color: #e0ffe0;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 60px;
+        }
+
+        .keyboard-container {
+            text-align: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .keyboard-item {
+            background-color: #004400;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #00ff00;
+        }
+
+            .keyboard-item img {
+                width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+            .keyboard-item h3 {
+                font-size: 1.2em;
+                margin-top: 15px;
+                color: #00ff00;
+            }
+
+            .keyboard-item p {
+                color: #b0ffb0;
+                font-size: 1em;
+                margin-top: 10px;
+            }
+    </style>
+</head>
+<body>
+	<header>
+		<h1>Razer Слушалки</h1>
+	</header>
+	<div class="headset-container">
+		@{
+			foreach (var item in Model)
+			{
+				<div class="mouse-item">
+					<img src="@item.ImageUrl" alt="Razer DeathAdder">
+					<h3>Razer @item.Categories.Name</h3>
+					<p>@item.Description</p>
+					<p>@item.Price лв</p>
+				</div>
+			}
+		}
+	</div>
+
+</body>
+</html>

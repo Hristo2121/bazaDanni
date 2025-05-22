@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Chairs";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razer Столове</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #000000, #004400);
+            color: #e0ffe0;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 150vh;
+            margin: 0;
+        }
+
+        h1 {
+            color: #00ff00;
+            font-size: 2.5em;
+            margin-top: 20px;
+        }
+
+        .chair-container {
+            text-align: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .chair-item {
+            background-color: #004400;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #00ff00;
+        }
+
+            .chair-item img {
+                width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+            .chair-item h3 {
+                font-size: 1.2em;
+                margin-top: 15px;
+                color: #00ff00;
+            }
+
+            .chair-item p {
+                color: #b0ffb0;
+                font-size: 1em;
+                margin-top: 10px;
+            }
+
+            .chair-item:hover {
+                transform: scale(1.05);
+                box-shadow: 0 8px 16px rgba(0, 255, 0, 0.3);
+                transition: all 0.3s ease;
+            }
+    </style>
+</head>
+<body>
+
+    <h1>Razer Столове</h1>
+
+    <div class="chair-container">
+        @{
+            foreach (var item in Model)
+            {
+                <div class="chair-item">
+                    <img src="@item.ImageUrl" alt="Razer DeathAdder">
+                    <h3>Razer @item.Categories.Name</h3>
+                    <p>@item.Description</p>
+                    <p>@item.Price лв</p>
+                </div>
+            }
+        }
+    </div>
+
+</body>
+</html>

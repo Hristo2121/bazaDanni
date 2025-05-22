@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\home\\contactsconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\home\\contactsconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\mics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\mics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\monitors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\monitors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\headphones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\headphones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\keyboards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\keyboards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\chairs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\chairs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\mouses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\mouses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|c:\\users\\icaka\\desktop\\gamearena\\bazadanni-master\\proekt\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A5C9DFF-43B7-4314-AB66-2B9F45AFF802}|Proekt\\Proekt.csproj|solutionrelative:proekt\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\contacts.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Home\\contacts.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\contacts.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Home\\contacts.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T07:45:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsConfirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\ContactsConfirm.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Home\\ContactsConfirm.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\ContactsConfirm.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Home\\ContactsConfirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T07:44:34.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Headphones.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Headphones.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Headphones.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Headphones.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Headphones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:54:11.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mics.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Mics.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Mics.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Mics.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Mics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:50:52.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monitors.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Monitors.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Monitors.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Monitors.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Monitors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:52:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Keyboards.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Keyboards.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Keyboards.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Keyboards.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Keyboards.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:50:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chairs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Chairs.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Chairs.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Chairs.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Chairs.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:27:59.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Product.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Product.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Product.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Product.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:13:59.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:02:44.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mouses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Mouses.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Products\\Mouses.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Products\\Mouses.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Products\\Mouses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:00:33.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T13:42:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proekt\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proekt\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:26:58.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Proekt\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Proekt\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAAMYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:25:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proekt\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proekt\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowBsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T13:18:35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

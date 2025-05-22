@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Proekt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Proekt.59z3l8ks7g.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\BW.PNG",
+      "PackagePath": "staticwebassets\\Images\\BW.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\CY.PNG",
+      "PackagePath": "staticwebassets\\Images\\CY.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\Corsair.PNG",
+      "PackagePath": "staticwebassets\\Images\\Corsair.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\HK.PNG",
+      "PackagePath": "staticwebassets\\Images\\HK.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\HU.PNG",
+      "PackagePath": "staticwebassets\\Images\\HU.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\NVIDIA.PNG",
+      "PackagePath": "staticwebassets\\Images\\NVIDIA.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\Neznam.PNG",
+      "PackagePath": "staticwebassets\\Images\\Neznam.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\Razer.PNG",
+      "PackagePath": "staticwebassets\\Images\\Razer.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\RazerBlackSharkV2.PNG",
+      "PackagePath": "staticwebassets\\Images\\RazerBlackSharkV2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\RazerBlackSharkV22.PNG",
+      "PackagePath": "staticwebassets\\Images\\RazerBlackSharkV22.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\RazerHuntsmanV2.PNG",
+      "PackagePath": "staticwebassets\\Images\\RazerHuntsmanV2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\RazerViperV3HyperSpeed.PNG",
+      "PackagePath": "staticwebassets\\Images\\RazerViperV3HyperSpeed.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\RazerViperV3HyperSpeed2.PNG",
+      "PackagePath": "staticwebassets\\Images\\RazerViperV3HyperSpeed2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\Tar.PNG",
+      "PackagePath": "staticwebassets\\Images\\Tar.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\bundle.PNG",
+      "PackagePath": "staticwebassets\\Images\\bundle.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\intel.PNG",
+      "PackagePath": "staticwebassets\\Images\\intel.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\kaval.png",
+      "PackagePath": "staticwebassets\\Images\\kaval.png"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\kaval2.png",
+      "PackagePath": "staticwebassets\\Images\\kaval2.png"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\klaviatyra3.PNG",
+      "PackagePath": "staticwebassets\\Images\\klaviatyra3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\klv.png",
+      "PackagePath": "staticwebassets\\Images\\klv.png"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mic.PNG",
+      "PackagePath": "staticwebassets\\Images\\mic.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mic2.PNG",
+      "PackagePath": "staticwebassets\\Images\\mic2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mice.PNG",
+      "PackagePath": "staticwebassets\\Images\\mice.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mice2.PNG",
+      "PackagePath": "staticwebassets\\Images\\mice2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mice3.PNG",
+      "PackagePath": "staticwebassets\\Images\\mice3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mice4.PNG",
+      "PackagePath": "staticwebassets\\Images\\mice4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mice5.PNG",
+      "PackagePath": "staticwebassets\\Images\\mice5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mik1.PNG",
+      "PackagePath": "staticwebassets\\Images\\mik1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mik2.PNG",
+      "PackagePath": "staticwebassets\\Images\\mik2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mik3.PNG",
+      "PackagePath": "staticwebassets\\Images\\mik3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\miskaa.PNG.jpg",
+      "PackagePath": "staticwebassets\\Images\\miskaa.PNG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\miso.png",
+      "PackagePath": "staticwebassets\\Images\\miso.png"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mo1.PNG",
+      "PackagePath": "staticwebassets\\Images\\mo1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mo2.PNG",
+      "PackagePath": "staticwebassets\\Images\\mo2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mo3.PNG",
+      "PackagePath": "staticwebassets\\Images\\mo3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\monitor.PNG",
+      "PackagePath": "staticwebassets\\Images\\monitor.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\monitor2.PNG",
+      "PackagePath": "staticwebassets\\Images\\monitor2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\monitor3.PNG",
+      "PackagePath": "staticwebassets\\Images\\monitor3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\mouse3.PNG",
+      "PackagePath": "staticwebassets\\Images\\mouse3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\rozova.PNG",
+      "PackagePath": "staticwebassets\\Images\\rozova.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\s1.PNG",
+      "PackagePath": "staticwebassets\\Images\\s1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\s2.PNG",
+      "PackagePath": "staticwebassets\\Images\\s2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\s3.PNG",
+      "PackagePath": "staticwebassets\\Images\\s3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\s4.PNG",
+      "PackagePath": "staticwebassets\\Images\\s4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\s5.PNG",
+      "PackagePath": "staticwebassets\\Images\\s5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\slush.PNG",
+      "PackagePath": "staticwebassets\\Images\\slush.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\slushalki3.PNG",
+      "PackagePath": "staticwebassets\\Images\\slushalki3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\slyh.png",
+      "PackagePath": "staticwebassets\\Images\\slyh.png"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stol.PNG",
+      "PackagePath": "staticwebassets\\Images\\stol.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stol2.PNG",
+      "PackagePath": "staticwebassets\\Images\\stol2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stold.PNG",
+      "PackagePath": "staticwebassets\\Images\\stold.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stole.PNG",
+      "PackagePath": "staticwebassets\\Images\\stole.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stolk.PNG",
+      "PackagePath": "staticwebassets\\Images\\stolk.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\Images\\stolt.PNG",
+      "PackagePath": "staticwebassets\\Images\\stolt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Icaka\\Desktop\\GameArena\\bazaDanni-master\\Proekt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Proekt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Proekt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Proekt.props",
+      "PackagePath": "build\\Proekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Proekt.props",
+      "PackagePath": "buildMultiTargeting\\Proekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Proekt.props",
+      "PackagePath": "buildTransitive\\Proekt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,89 @@
+﻿@model List<Proekt.Models.Product>
+@{
+	ViewData["Title"] = "Mics";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Razer Микрофони</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #121212;
+			color: #fff;
+			height: 100vh;
+		}
+
+		header {
+			background-color: #00ff00;
+			color: #000;
+			padding: 20px;
+			text-align: center;
+		}
+
+		.container {
+			padding: 20px;
+		}
+
+		.product {
+			display: flex;
+			margin-bottom: 20px;
+			border: 1px solid #444;
+			border-radius: 8px;
+			overflow: hidden;
+		}
+
+			.product img {
+				width: 200px;
+				height: auto;
+			}
+
+		.product-info {
+			padding: 15px;
+		}
+
+			.product-info h2 {
+				margin: 0 0 10px;
+				font-size: 24px;
+				color: #00ff00;
+			}
+
+			.product-info p {
+				margin: 0 0 10px;
+			}
+
+			.product-info a {
+				text-decoration: none;
+				color: #00ff00;
+				font-weight: bold;
+			}
+
+				.product-info a:hover {
+					text-decoration: underline;
+				}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Razer Микрофони</h1>
+	</header>
+	<div class="container">
+		@{
+			foreach (var item in Model)
+			{
+				<div class="product">
+					<img src="@item.ImageUrl" alt="Razer DeathAdder">
+					<h3>Razer @item.Categories.Name</h3>
+					<p>@item.Description</p>
+					<p>@item.Price лв</p>
+				</div>
+			}
+		}
+	</div>
+</body>
+</html>
+

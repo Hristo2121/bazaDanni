@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Keyboards";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razer Клавиатури</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #000000, #004400);
+            color: #e0ffe0;
+           
+            justify-content: center;
+            align-items: center;
+            
+            margin-bottom: 60px;
+        }
+
+        .keyboard-container {
+            text-align: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .keyboard-item {
+            background-color: #004400;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #00ff00;
+        }
+
+            .keyboard-item img {
+                width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+            .keyboard-item h3 {
+                font-size: 1.2em;
+                margin-top: 15px;
+                color: #00ff00;
+            }
+
+            .keyboard-item p {
+                color: #b0ffb0;
+                font-size: 1em;
+                margin-top: 10px;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Razer Клавиатури</h1>
+    </header>
+    <div class="keyboard-container">
+        <!-- Първа Razer клавиатура -->
+        <div class="keyboard-item">
+            <img src="~/Images/BW.PNG" alt="Razer BlackWidow">
+            <h3>Razer BlackWidow</h3>
+            <p>Тази клавиатура е известна със своите зелени механични превключватели и RGB подсветка.</p>
+            <p>Цена: 420 лв</p>
+        </div>
+
+        <!-- Втора Razer клавиатура -->
+        <div class="keyboard-item">
+            <img src="~/Images/Hu.PNG" alt="Razer Huntsman">
+            <h3>Razer Huntsman</h3>
+            <p>Иновативна клавиатура с оптично-механични превключватели за изключителна бързина.</p>
+            <p>Цена: 190 лв</p>
+        </div>
+
+        <!-- Трета Razer клавиатура -->
+        <div class="keyboard-item">
+            <img src="~/Images/HK.PNG" alt="Razer Ornata">
+            <h3>Razer Ornata</h3>
+            <p>Комбинация от мембрана и механични превключватели за комфорт и производителност.</p>
+            <p>Цена: 320 лв</p>
+        </div>
+
+        <!-- Четвърта Razer клавиатура -->
+        <div class="keyboard-item">
+            <img src="~/Images/CY.PNG" alt="Razer Cynosa">
+            <h3>Razer Cynosa</h3>
+            <p>RGB клавиатура с мембранни превключватели и достъпна цена.</p>
+            <p>Цена: 260 лв</p>
+        </div>
+        <br />
+        <!-- Пета Razer клавиатура -->
+        <div class="keyboard-item">
+            <img src="~/Images/Tar.PNG" alt="Razer Tartarus">
+            <h3>Razer Tartarus</h3>
+            <p>Гейминг пад с напълно програмируеми клавиши и RGB подсветка.</p>
+            <p>Цена: 220 лв</p>
+        </div>
+    </div>
+
+</body>
+</html>

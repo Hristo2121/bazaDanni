@@ -1,0 +1,113 @@
+﻿@model List<Proekt.Models.Product>
+
+@{
+	ViewData["Title"] = "Mouses";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Мишки Razer</title>
+	<style>
+		/* Основни настройки на тялото */
+		body {
+		font-family: Arial, sans-serif;
+		background-color: #1a1a1a;
+		color: #fff;
+		margin: 0;
+		padding: 0;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		}
+
+		/* Контейнер за всички мишки Razer */
+		.mouse-container {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		gap: 30px;
+		max-width: 1200px;
+		width: 100%;
+		padding: 20px;
+		box-sizing: border-box;
+		}
+
+		/* Стилове за всяка отделна мишка */
+		.mouse-item {
+		background-color: #333;
+		border-radius: 8px;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+		overflow: hidden;
+		padding: 20px;
+		transition: transform 0.3s ease-in-out;
+		}
+
+		/* Добавяне на ефект при ховър върху мишката */
+		.mouse-item:hover {
+		transform: scale(1.05);
+		}
+
+		/* Стилизация на изображението на мишката */
+		.mouse-item img {
+		width: 100%;
+		height: auto;
+		border-radius: 8px;
+		transition: transform 0.3s ease-in-out;
+		}
+
+		/* Малък ефект при ховър върху изображението */
+		.mouse-item img:hover {
+		transform: scale(1.1);
+		}
+
+		/* Заглавие на мишката */
+		.mouse-item h3 {
+		font-size: 1.4em;
+		margin-top: 15px;
+		font-weight: 600;
+		color: #00b140;
+		}
+
+		/* Описание на мишката */
+		.mouse-item p {
+		font-size: 1em;
+		color: #ccc;
+		margin-top: 10px;
+		}
+
+		.mouse-item {
+		padding: 15px;
+		}
+
+		.mouse-item h3 {
+		font-size: 1.2em;
+		}
+
+		.mouse-item p {
+		font-size: 0.9em;
+		}
+
+	</style>
+</head>
+<body>
+	<h2>Мишки</h2></>
+
+	<div class="mouse-container">
+		@{
+			foreach(var item in Model)
+			{
+				<div class="mouse-item">
+					<img src="@item.ImageUrl" alt="Razer DeathAdder">
+					<h3>Razer @item.Categories.Name</h3>
+					<p>@item.Description</p>
+					<p>@item.Price лв</p>
+				</div>
+			}
+		}
+		
+	</div>
+
+</body>
+</html>
+

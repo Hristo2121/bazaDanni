@@ -1,0 +1,196 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+	var products = ViewBag.Products as List<Proekt.Models.Product>;
+}
+
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ГеймАрена - Начало</title>
+	<link href="index.css" rel="stylesheet" />
+	<style>
+
+		body {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			margin: 0;
+			font-family: Arial, sans-serif;
+		}
+
+
+		.special-offers, .partners, .popular-products, .hero {
+			text-align: center;
+			margin: 50px 0;
+			width: 100%;
+			max-width: 1200px;
+		}
+
+
+		.offer {
+			display: inline-block;
+			width: 45%;
+			margin: 10px;
+			padding: 20px;
+			border: 1px solid #ddd;
+			border-radius: 10px;
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+			text-align: center;
+		}
+
+			.offer img {
+				width: 100%;
+				height: auto;
+				border-radius: 10px;
+			}
+
+
+		.partners-list {
+			display: flex;
+			justify-content: center;
+			gap: 20px;
+			flex-wrap: wrap;
+		}
+
+			.partners-list img {
+				width: 150px;
+				height: auto;
+				border-radius: 10px;
+				box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+			}
+
+
+		h2 {
+			font-size: 2em;
+			color: #333;
+			margin-bottom: 20px;
+		}
+
+		h3 {
+			font-size: 1.5em;
+			color: #333;
+			margin-top: 10px;
+		}
+
+		p {
+			font-size: 1.1em;
+			color: #666;
+		}
+
+
+		header {
+			background-color: #333;
+			color: white;
+			padding: 10px 0;
+			width: 100%;
+		}
+
+			header .logo h1 {
+				margin-left: 20px;
+			}
+
+		nav ul {
+			list-style-type: none;
+			padding: 0;
+			text-align: center;
+		}
+
+			nav ul li {
+				display: inline;
+				margin-right: 20px;
+			}
+
+				nav ul li a {
+					color: white;
+					text-decoration: none;
+				}
+
+
+		.popular-products .product-list {
+			display: flex;
+			justify-content: center;
+			gap: 20px;
+		}
+
+		.product {
+			text-align: center;
+			width: 200px;
+		}
+
+			.product img {
+				width: 100%;
+				height: auto;
+				border-radius: 10px;
+			}
+
+			.product h3 {
+				margin-top: 10px;
+			}
+	</style>
+</head>
+<body>
+
+	<main>
+
+		<section class="hero">
+			<h2>Добре дошли в ГеймАрена!</h2>
+			<p>Вашият магазин за гейминг периферия и аксесоари.</p>
+			<img src="~/Images/Razer.PNG" alt="Гейминг оборудване">
+		</section>
+
+
+		<section class="popular-products">
+			<h2>Популярни продукти от Razer</h2>
+			<div class="product-list">
+				@{
+					foreach (var product in products)
+					{
+						<div class="product">
+							<img src="@product.ImageUrl">
+							<h3>Razer @product.Name V2</h3>
+							<p style="font-size:20pt">@product.Price лв</p>
+						</div>
+					}
+
+				}
+			</div>
+		</section>
+
+		<section class="special-offers">
+			<h2>Специални оферти от Razer</h2>
+			<div class="offer">
+				<img src="~/Images/bundle.PNG" alt="Оферта Razer 1">
+				<h3>Комплект Razer периферия</h3>
+				<p>Вземете на специална цена: 499 лв</p>
+			</div>
+			<div class="offer">
+				<img src="~/Images/slush.PNG" alt="Оферта Razer 2">
+				<h3>Отстъпка на слушалки Razer</h3>
+				<p>Спестете до 20%!</p>
+				<a class="btn-danger" asp-action=""></a>
+			</div>
+		</section>
+
+
+		<section class="partners">
+			<h2>Нашите партньори</h2>
+			<div class="partners-list">
+				<a href="https://www.intel.com/content/www/us/en/homepage.html">
+					<img src="~/Images/intel.PNG" alt="Intel">
+				</a>
+				<a href="https://www.nvidia.com/en-us/">
+					<img src="~/Images/NVIDIA.PNG" alt="NVIDIA">
+				</a>
+				<a href="https://www.corsair.com/ww/en?srsltid=AfmBOorC0Ds94l1zDI9dpjRQkspPoPLZKJjE37IfqY6Z8pFKBa2nYzmr">
+					<img src="~/Images/Corsair.PNG" alt="Corsair">
+				</a>
+			</div>
+		</section>
+	</main>
+
+
+</body>
+</html>

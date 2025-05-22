@@ -1,0 +1,216 @@
+﻿@{
+    ViewData["Title"] = "AboutUs";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ГеймАрена - За нас</title>
+    <link href="index.css" rel="stylesheet" />
+    <style>
+        /* Основни стилове за body */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        /* Хедър стилове */
+        header {
+            width: 100%;
+            background-color: #333;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+
+            header .logo h1 {
+                margin: 0;
+            }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+            nav ul li {
+                display: inline;
+                margin-right: 20px;
+            }
+
+                nav ul li a {
+                    color: white;
+                    text-decoration: none;
+                    font-size: 1.2em;
+                }
+
+        /* Стили за секциите */
+        main {
+            padding: 20px;
+        }
+
+        .about-us {
+            margin-bottom: 40px;
+            text-align: center;
+        }
+
+            .about-us h2 {
+                font-size: 2.5em;
+                margin-bottom: 10px;
+            }
+
+            .about-us p {
+                font-size: 1.2em;
+                line-height: 1.6;
+                color: #666;
+                margin-bottom: 20px;
+            }
+
+            .about-us strong {
+                color: #333;
+            }
+
+        /* Специални продукти на Razer */
+        .featured-razer-products {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+            .featured-razer-products h2 {
+                font-size: 2.5em;
+                margin-bottom: 20px;
+            }
+
+            .featured-razer-products p {
+                font-size: 1.2em;
+                color: #666;
+                margin-bottom: 30px;
+            }
+
+        .product-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .product {
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+            .product img {
+                width: 100%;
+                height: auto;
+                border-radius: 10px;
+                margin-bottom: 15px;
+            }
+
+            .product h4 {
+                font-size: 1.5em;
+                margin-top: 10px;
+            }
+
+            .product p {
+                font-size: 1.1em;
+                color: #333;
+                margin-top: 10px;
+            }
+
+        /* Мисия секция */
+        .mission {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+            .mission h2 {
+                font-size: 2.5em;
+                margin-bottom: 10px;
+            }
+
+            .mission p {
+                font-size: 1.2em;
+                line-height: 1.6;
+                color: #666;
+                max-width: 900px;
+                margin: 0 auto;
+            }
+
+        /* Подобряване на футера */
+        footer {
+            width: 100%;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    
+    <main>
+        <section class="about-us">
+            <h2>За нас</h2>
+            <p>
+                Добре дошли в <strong>ГеймАрена</strong> – мястото, където страстта към игрите среща най-доброто оборудване.
+                Нашият магазин се фокусира върху предоставянето на висококачествени геймърски продукти, с особен акцент върху легендарната марка <strong>Razer</strong>.
+            </p>
+            <p>
+                От самото си създаване през 2020 г. до днес, ние се стремим да вдъхновяваме и подкрепяме геймърите в техния път към победата.
+                Благодарение на партньорството ни с Razer, ние предлагаме най-иновативните технологии в света на гейминга.
+            </p>
+            <p>
+                Любопитен факт: Знаете ли, че Razer е първата компания, която създаде RGB клавиатура за гейминг? Това е само малка част от иновациите, които правят техните продукти толкова специални.
+            </p>
+        </section>
+
+        <!-- Специални продукти на Razer -->
+        <section class="featured-razer-products">
+            <h2>Защо избираме Razer?</h2>
+            <p>С Razer получавате перфектния баланс между дизайн, производителност и надеждност.</p>
+            <div class="product-list">
+                <div class="product">
+                    <h4>Razer Huntsman V2</h4>
+                    <img src="~/Images/rozova.PNG" alt="Razer Huntsman V2">
+                    <p>Изключителна механична клавиатура с най-бързите превключватели.</p>
+                </div>
+                <div class="product">
+                    <h4>Razer Mamba Wireless</h4>
+                    <img src="~/Images/miskaa.PNG.jpg" alt="Razer Mamba Wireless">
+
+                    <p>Ултрапрецизна мишка с безжична свобода.</p>
+                </div>
+                <div class="product">
+                    <h4>Razer BlackShark V2</h4>
+                    <img src="~/Images/slush.PNG" alt="Razer BlackShark V2">
+                    <p>Кристално чист звук за максимално потапяне в играта.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Мисия и визия -->
+        <section class="mission">
+            <h2>Нашата мисия</h2>
+            <p>
+                Нашата мисия е проста – да ви осигурим достъп до най-добрите гейминг продукти на пазара.
+                Вярваме, че игрите не са просто забавление, а начин на живот.
+                Нека заедно достигнем нови нива на производителност с помощта на Razer.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ГеймАрена. Всички права запазени.</p>
+    </footer>
+</body>
+</html>
+
+

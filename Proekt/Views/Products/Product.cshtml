@@ -1,0 +1,148 @@
+﻿@model List<Proekt.Models.Product>
+@{
+	ViewData["Title"] = "Product";
+}
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ГеймАрена - Гейминг Каталог</title>
+	<style>
+
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			align-items: center;
+			justify-content: center;
+			background-color: #f4f4f4;
+		}
+
+		.catalog {
+			text-align: center;
+			margin: 50px;
+			width: 90%;
+			max-width: 1200px;
+		}
+
+			.catalog h2 {
+				font-size: 2.5em;
+				margin-bottom: 10px;
+			}
+
+			.catalog p {
+				font-size: 1.2em;
+				color: #666;
+				margin-bottom: 40px;
+			}
+
+		.product-list {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+			gap: 20px;
+			margin-top: 30px;
+		}
+
+		.product {
+			background-color: white;
+			padding: 20px;
+			border-radius: 10px;
+			box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+			text-align: center;
+		}
+
+		.product-imgs img {
+			width: 100%;
+			height: auto;
+			border-radius: 10px;
+		}
+
+		.product h4 {
+			font-size: 1.5em;
+			margin-top: 10px;
+		}
+
+		.product p {
+			font-size: 1.1em;
+			color: #333;
+			margin-top: 10px;
+		}
+
+
+		.product-imgs {
+			margin-bottom: 10px;
+		}
+
+		footer {
+			width: 100%;
+			background-color: #333;
+			color: white;
+			text-align: center;
+			padding: 10px 0;
+			position: fixed;
+			bottom: 0;
+		}
+	</style>
+</head>
+<body>
+	<main>
+		<section class="catalog">
+			<h2>Гейминг Каталог</h2>
+			<p>Открийте най-добрите продукти за вашето гейминг изживяване. Професионални аксесоари и оборудване, само от водещи марки като Razer.</p>
+
+			<div class="product-list">
+				@foreach (var item in Model)
+				{
+					<div class="product">
+						<div class="product-imgs">
+							<a href="http://localhost:64362/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B8.html"><img src="@item.ImageUrl" width="400" height="450" class="center-image" /></a>
+							<h4>Razer @item.Name</h4>
+							
+						</div>
+						<p>@item.Description</p>
+						@{
+							if (item.Categories.Name == "Клавиатура")
+							{
+								<a asp-action="Keyboards" asp-controller="Products" class="product-link">Разгледайте още Клавиатури</a>
+							}
+
+							else if (item.Categories.Name == "Мишка")
+							{
+								<a asp-action="Mouses" asp-controller="Products" class="product-link">Разгледайте още Мишки</a>
+							}
+							else if (item.Categories.Name == "Микрофон")
+							{
+								<a asp-action="Mics" asp-controller="Products" class="product-link">Разгледайте още Микрофони</a>
+							}
+							else if (item.Categories.Name == "Стол")
+							{
+								<a asp-action="Chairs" asp-controller="Products" class="product-link">Разгледайте още Столове</a>
+							}
+
+							else if (item.Categories.Name == "Монитор")
+							{
+								<a asp-action="Monitors" asp-controller="Products" class="product-link">Разгледайте още Монитори</a>
+							}
+							else if (item.Categories.Name == "Слушалки")
+							{
+								<a asp-action="Headphones" asp-controller="Products" class="product-link">Разгледайте още Слушалки</a>
+							}
+						}
+
+					</div>
+
+				}
+
+
+				
+		 </div>
+			
+		</section>
+	</main>
+
+
+</body>
+</html>
+
+
