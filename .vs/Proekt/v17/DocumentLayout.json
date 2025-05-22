@@ -91,8 +91,7 @@
               "RelativeToolTip": "Proekt\\Views\\Home\\ContactsConfirm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T07:44:34.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T07:44:34.892Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "Proekt\\Views\\Products\\Headphones.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T14:54:11.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T14:54:11.433Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "Proekt\\Views\\Products\\Mics.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T14:50:52.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T14:50:52.227Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "Proekt\\Views\\Products\\Monitors.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T14:52:43.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T14:52:43.618Z"
             },
             {
               "$type": "Document",
@@ -215,8 +211,7 @@
               "RelativeToolTip": "Proekt\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:26:58.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:26:58.589Z"
             },
             {
               "$type": "Document",
@@ -228,8 +223,7 @@
               "RelativeToolTip": "Proekt\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAAAMYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:25:32.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:25:32.105Z"
             },
             {
               "$type": "Document",
@@ -241,8 +235,7 @@
               "RelativeToolTip": "Proekt\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAowBsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:18:35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:18:35Z"
             }
           ]
         }
